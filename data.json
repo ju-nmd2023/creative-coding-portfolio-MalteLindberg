@@ -1,7 +1,7 @@
 [
   {
-    "file": "experiments/example.js",
-    "name": "Name of your experiment",
-    "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview."
+    "file": "experiments/week1_project1.js",
+    "name": "Rosace Reimagined",
+    "description": "Recreation/inspiration of Vera Molnár's Computer rosace-series (1974). The version to the left is just a simple recreation, with straight lines. The version to the right has a bit more variation, with wiggly lines that randomizes every time you click on it."
   }
 ]
