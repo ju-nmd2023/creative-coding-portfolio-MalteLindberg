@@ -1,5 +1,15 @@
 [
     {
+    "file": "experiments/week2_project1.js",
+    "name": "Flow Fields version 1",
+    "description": "Inspired by \"Lines 2\" by Tyler Hobbs (https://www.tylerxhobbs.com/works/lines-2). The original artwork has a more united and perfect circle, while my version has a bit more randomness and fluidity to it. A tutorial by Steve's Makerspace (https://www.youtube.com/watch?v=R0OFyWEglGA) was used to understand the basics of flow fields and Perlin noise."
+    },
+    {
+    "file": "experiments/week2_project2.js",
+    "name": "Flow Fields version 2",
+    "description": "A second version of the flow field artwork. For this version I wanted to experiment with motion, and while doing so I also added some controls to manipulate the animation/flow field. The sliders can be used to change the angle factor, resolution and speed of the animation. The checkbox can be used to randomize the angle factor for each line, creating a more chaotic look."
+    },
+    {
     "file": "experiments/week1_project1.js",
     "name": "Rosace Reimagined",
     "description": "Recreation/inspiration of Vera Molnár's Computer rosace-series (1974). The version to the left is just a simple recreation, with straight lines. The version to the right has a bit more variation, with wiggly lines that randomizes every time you click on it. Additionally, there's a slider to control the rotation of the squares."

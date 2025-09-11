@@ -26,6 +26,9 @@ h6 {
   font-weight: 600;
 }
 
+#author {
+  margin-top: 2.5rem;
+}
 #name {
   margin-bottom: 0.8rem;
 }

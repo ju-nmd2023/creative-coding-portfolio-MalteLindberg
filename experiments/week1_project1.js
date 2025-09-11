@@ -11,7 +11,7 @@ function setup() {
     rotationSlider = createSlider(0, TWO_PI, 0, 0.1);
     rotationSlider.position(width/2 - 100, variation2Y + maxSize/2 + 70);
     rotationSlider.style('width', '200px');
-    rotationSlider.input(redraw); // Redraw code writen with the help of Github Copilot
+    rotationSlider.input(redraw); // "Redraw" code writen with the help of Github Copilot
 }
 
 function variation1() {
@@ -71,7 +71,7 @@ function variation2() {
 
 
 function draw() {
-    background(255, 255, 255); // Clear the background
+    background(255, 255, 255);
     variation1();
     variation2();
 
