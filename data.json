@@ -1,5 +1,15 @@
 [
     {
+    "file": "experiments/week4_project1.js",
+    "name": "Synth version 1",
+    "description": "A continuation of the flow fields project from week 2, but this time with an interactive synthesizer. The angle and color of the flow field is controlled by the frequency of the sound. To understand the basics of creating a synthesizer in tone.js, the project WobblyBlob by ridleyjj (https://github.com/ridleyjj/WobblyBlob) was used as inspiration."
+    },
+    {
+    "file": "experiments/week4_project2.js",
+    "name": "Synth version 2",
+    "description": "A second version of the synthesizer project. For this version I wanted to improve the sound of the synthesizer, aswell as improve the visuals. The synth filter was inspired by a p5.js project by the user ivymeadows (https://editor.p5js.org/ivymeadows/sketches/B1FidNdqQ). I also made the flow field more interactive by changing more variables based on the frequency, aswell as the frequency filter."
+    },
+    {
     "file": "experiments/week3_project1.js",
     "name": "Tree Rings version 1",
     "description": "Inspired by an original artwork by reddit user u/TheFoolVoyager (https://www.reddit.com/r/processing/comments/awzkgd/tree_rings_made_with_perlin_noise/#lightbox), aswell as a tutorial by Ahmad Moussa (https://www.gorillasun.de/blog/radial-perlin-noise-and-generative-tree-rings/). This version is a bit of an combination of the two, with the color scheme and bark layer inspired by the artwork by u/TheFoolVoyager, and the Perlin noise calculations inspired by Ahmad Moussa's tutorial."
